@@ -3,4 +3,4 @@ Script hecho para mostrar el clima, recuerden que antes de hacer 'npm start', ti
 
 
 
-### Hosteada con Heroku en https://weatherapi11123.herokuapp.com/
+### Deployeada con Heroku en https://weatherapi11123.herokuapp.com/
